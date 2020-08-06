@@ -1,5 +1,5 @@
 # intro_ci
-
+"In software engineering, continuous integration is the practice of merging all developers' working copies to a shared mainline several times a day."
 
 ## sign up for the free version of circleci using github
 
