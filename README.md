@@ -1,11 +1,11 @@
-# intro_ci
+# Continuous Integration
 "Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. The CI process is comprised of automatic tools that assert the new code's correctness before integration."
 
-## sign up for the free version of circleci using github
+## Sign up for the free version of CircleCI using github
 
 https://circleci.com/signup/?source-button=free
 
-## setting up
+## Set up
 
 https://circleci.com/docs/2.0/getting-started/#section=getting-started
 
@@ -32,7 +32,7 @@ https://circleci.com/docs/2.0/getting-started/#section=getting-started
 9. Click "Add Manually", etc. 
 10. Wait for green build!
 
-## details of your build in circleci
+## Details of your build in CircleCI
 
 Circleci dashboard. Green build
 
