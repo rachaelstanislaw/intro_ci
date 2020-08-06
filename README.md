@@ -1,5 +1,5 @@
 # intro_ci
-"In software engineering, continuous integration is the practice of merging all developers' working copies to a shared mainline several times a day."
+"Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. The CI process is comprised of automatic tools that assert the new code's correctness before integration."
 
 ## sign up for the free version of circleci using github
 
