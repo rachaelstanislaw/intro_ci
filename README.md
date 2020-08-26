@@ -1,3 +1,5 @@
+add troubleshooting
+
 # Continuous Integration
 "Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. The CI process is comprised of automatic tools that assert the new code's correctness before integration."
 
